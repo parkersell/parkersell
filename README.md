@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Singularity Containerization and React Native 
 - ✨ Major Projects: [Robomower Internship](https://github.com/parkersell/Robomower), [Humanoid Robot Internship](https://github.com/Tlalvani/Greeter-Robot), [Non-profit Dashboard Website using Django](https://github.com/parkersell/AttolloAdmin), [STEM Competition Website using Django](https://github.com/parkersell/stem)
 - ⚡ 2021 Hackathons I have competed in: [Citrushack](https://github.com/parkersell/Citrushack), [Hack PSU](https://github.com/parkersell/HackPsu2021), [PittChallenge](https://github.com/Tlalvani/PittChallenge)
+- 👯 Won **first** in a Nittany AI Student Society Case Competition
 - 📫 How to reach me: parkersell27@gmail.com
 <!--
 **parkersell/parkersell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
