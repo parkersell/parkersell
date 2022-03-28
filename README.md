@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently in making progress on Computer Vision research in therapy (ChenyanWu/therapy_project) and React Native mobile app development for a startup (parkersell/WinCity)
-- 🌱 I’m currently learning Singularity Containerization and React Native 
-- ✨ Major Projects: [Robomower Internship](https://github.com/parkersell/Robomower), [Humanoid Robot Internship](https://github.com/Tlalvani/Greeter-Robot), [Non-profit Dashboard Website using Django](https://github.com/parkersell/AttolloAdmin), [STEM Competition Website using Django](https://github.com/parkersell/stem)
+- 🔭 I’m currently in making progress on Computer Vision and NLP research in a zero-shot anticipation procedural tasks, React Native mobile app development for a startup (parkersell/WinCity), and developing an AI Startup called [SchizophrenAI](https://github.com/SchizophrenAI)
+- 🌱 I’m currently learning React Native, Node.js, and relevant state of the art NLP approaches
+- ✨ Major Projects: Physical Therapy and Computer Vision Research (ChenyanWu/therapy_project), [Robomower Internship](https://github.com/parkersell/Robomower), [Humanoid Robot Internship](https://github.com/Tlalvani/Greeter-Robot), [Non-profit Dashboard Website using Django](https://github.com/parkersell/AttolloAdmin), [STEM Competition Website using Django](https://github.com/parkersell/stem), 
 - ⚡ 2021 Hackathons I have competed in: [Citrushack](https://github.com/parkersell/Citrushack), [Hack PSU](https://github.com/parkersell/HackPsu2021), [PittChallenge](https://github.com/Tlalvani/PittChallenge)
-- 👯 Won **first** in a Nittany AI Student Society Case Competition
+- 👯 Won **first** in a Nittany AI Student Society Case Competition, advanced to the **top 20** in Nittany AI Challenge 2022
 - 📫 How to reach me: parkersell27@gmail.com
 <!--
 **parkersell/parkersell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
