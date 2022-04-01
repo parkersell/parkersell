@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently in making progress on Computer Vision and NLP research in a zero-shot anticipation procedural tasks, React Native mobile app development for a startup (parkersell/WinCity), and developing an AI Startup called [SchizophrenAI](https://github.com/SchizophrenAI)
+- 🔭 I’m currently making progress on Computer Vision and NLP research in a zero-shot anticipation procedural tasks, React Native mobile app development for a startup (parkersell/WinCity), and developing an AI Startup called [SchizophrenAI](https://github.com/SchizophrenAI)
 - 🌱 I’m currently learning React Native, Node.js, and relevant state of the art NLP approaches
 - ✨ Major Projects: Physical Therapy and Computer Vision Research (ChenyanWu/therapy_project), [Robomower Internship](https://github.com/parkersell/Robomower), [Humanoid Robot Internship](https://github.com/Tlalvani/Greeter-Robot), [Non-profit Dashboard Website using Django](https://github.com/parkersell/AttolloAdmin), [STEM Competition Website using Django](https://github.com/parkersell/stem), 
 - ⚡ 2021 Hackathons I have competed in: [Citrushack](https://github.com/parkersell/Citrushack), [Hack PSU](https://github.com/parkersell/HackPsu2021), [PittChallenge](https://github.com/Tlalvani/PittChallenge)
